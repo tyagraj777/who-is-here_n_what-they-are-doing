@@ -1,5 +1,7 @@
 Detail Instructions:
 
+Need packages -
+1. inotify-tools
 
 1. Save the script: Save the script as system_monitor.sh.
 
